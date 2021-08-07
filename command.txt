@@ -1,0 +1,11 @@
+createrawtranscation '[{"txid": "498f1281fb6a1734982aaba7c291a3eedd855074a4ca1a4f4584b17b3e6a6a89", 
+"vout": 1}]' '{"tb1q4tacwmmvwaa493qkudvxk78er0dvwyryeafw3a": 0.00001000, "tb1qckscwd0jhhxjwvnp24f3an7gden8xxuwnkykq8": 0.00000859}'
+
+
+
+
+
+
+Address: bc1quea645sk9tlzgvzd9g9e99r44jc8zpfagae86y
+message: "bc1quea645sk9tlzgvzd9g9e99r44jc8zpfagae86y:1628227350:starRegistry"
+signature: H1KgcmWdI68TU59JKeC2tDASe+c4n6rBeM5+uv2oOCxtWjHLhJru5D9Ugb63KCTjHPqFtFgP+vBwCb35SolP+TU=
